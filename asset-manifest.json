@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StudyAi/static/css/main.c6414973.css",
+    "main.js": "/StudyAi/static/js/main.fcf2cbcb.js",
+    "index.html": "/StudyAi/index.html",
+    "main.c6414973.css.map": "/StudyAi/static/css/main.c6414973.css.map",
+    "main.fcf2cbcb.js.map": "/StudyAi/static/js/main.fcf2cbcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6414973.css",
+    "static/js/main.fcf2cbcb.js"
+  ]
+}
